@@ -1,2 +1,2 @@
-class Constant
+class Artist
 end
